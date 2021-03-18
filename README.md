@@ -2,4 +2,4 @@
 
 ## Todo
 - [ ] Finish job description
-- [ ] Add certifications
+- [x] Add certifications
